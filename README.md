@@ -24,7 +24,7 @@
 ![AixLnyt GitHub Streak](https://streak-stats.demolab.com?user=AixLnyt&theme=radical&hide_border=&border_radius=5&locale=zh_Hant)
 
 ### 🚪 **Github Visits | Github 訪問人數:**
-![Visitor Count](https://profile-counter.glitch.me/{AixLnyt}/count.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAixLnyt&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://github.com/AixLnyt)
 
 <div style="display: flex;">
   <img src="pic/hoshino.gif" alt="圖片說明" width="100" height="100" />
