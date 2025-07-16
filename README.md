@@ -21,7 +21,7 @@
 ![AixLnyt Github cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AixLnyt&theme=dracula)  
 ![AixLnyt Github cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AixLnyt&theme=dracula)  
 ![AixLnyt Github cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AixLnyt&theme=dracula)  
-![AixLnyt GitHub Streak](https://streak-stats.demolab.com?user=AixLnyt&theme=radical&hide_border=&border_radius=5&locale=zh_Hant)
+[![AixLnyt GitHub Streak](https://streak-stats.demolab.com?user=AixLnyt&theme=synthwave&hide_border=&locale=zh_Hant&short_numbers=)](https://git.io/streak-stats)
 
 ### 🚪 **Github Visits | Github 訪問人數:**
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AixLnyt)
