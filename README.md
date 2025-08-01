@@ -21,7 +21,7 @@
 ![AixLnyt Github cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AixLnyt&theme=dracula)  
 ![AixLnyt Github cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AixLnyt&theme=dracula)  
 ![AixLnyt Github cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AixLnyt&theme=dracula)  
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aixlnyt&bg_color=0f0f1a&color=08f7fe&line=00fff7&point=ff00f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aixlnyt&bg_color=0f0f1a&color=08f7fe&line=00fff7&point=ff00f7&area=true&hide_border=true)
 
 ### 🚪 **Github Visits | Github 訪問人數:**
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AixLnyt)
