@@ -15,7 +15,6 @@
 ## 📊 **Github Status | Github 狀態：**
 ![AixLnyt GitHub 語言統計](https://github-readme-stats.vercel.app/api/top-langs/?username=AixLnyt&show_icons=true&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)  
 ![AixLnyt GitHub 狀態資訊](https://github-readme-stats.vercel.app/api/?username=AixLnyt&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)  
-![AixLnyt GitHub 獎盃資訊](https://github-profile-trophy.vercel.app/?username=AixLnyt&column=8&theme=radical)  
 ![AixLnyt Github cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AixLnyt&theme=dracula)  
 ![AixLnyt Github cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AixLnyt&theme=dracula)  
 ![AixLnyt Github cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AixLnyt&theme=dracula)  
